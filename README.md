@@ -1,2 +1,4 @@
 # hello-world
-this is not a repository
+
+My name is Rodrigo. I like Javascript, React.js and Java. I live in Argentina.
+
